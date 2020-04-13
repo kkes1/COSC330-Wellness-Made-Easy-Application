@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets>
+    <entry>
+        <chapter>1</chapter>
+        <term>Cultural Competence</term>
+        <definition>Writing that is clear and to the point which takes less time to read and understand.</definition>
+        <drawable>@drawable/culturalcompetence</drawable>
+    </entry>
+    <entry>
+        <chapter>1</chapter>
+        <term>Numeracy</term>
+        <definition>Is understanding written words such that you can participate in society, meet your goals and develop your knowledge and potential.</definition>
+        <drawable>@drawable/numeracy</drawable>
+    </entry>
+    <entry>
+        <chapter>1</chapter>
+        <term>Plain Language</term>
+        <definition>Moving resources from the hospital into the community to support all aspects of wellness (examples: disease management, support groups, timely treatment to avoid serious illness, home visits) by empowering people to take responsibility for their own wellness.</definition>
+        <drawable>@drawable/plainlanguage</drawable>
+    </entry>
+    <entry>
+        <chapter>1</chapter>
+        <term>Literacy</term>
+        <definition>Behaviors, attitudes and policies that come together, between people of differing cultures, that enables them to work together effectively.</definition>
+        <drawable>@drawable/literacy</drawable>
+    </entry>
+    <entry>
+        <chapter>1</chapter>
+        <term>Health Literacy</term>
+        <definition>The ability to understand mathematical information to manage mathematical demands in a range of situations.</definition>
+        <drawable>@drawable/healthliteracy</drawable>
+    </entry>
+    <entry>
+        <chapter>1</chapter>
+        <term>Population Health</term>
+        <definition>The degree that a person can understand basic health information and available services so that you can make appropriate health choices.</definition>
+        <drawable>@drawable/populationhealth</drawable>
+    </entry>
+    <entry>
+        <chapter>1</chapter>
+        <term>Appointment</term>
+        <definition>A time to meet or agree to see someone.</definition>
+        <drawable>@drawable/appointment</drawable>
+    </entry>
+    <entry>
+        <chapter>1</chapter>
+        <term>Checkup</term>
+        <definition>A visit to the doctor when you are not sick, also called a wellness visit.</definition>
+        <drawable>@drawable/checkup</drawable>
+    </entry>
+    <entry>
+        <chapter>1</chapter>
+        <term>Co-pay</term>
+        <definition>When you pay a set fee every time you go to the doctor and your health insurance pays the rest</definition>
+        <drawable>@drawable/copay</drawable>
+    </entry>
+    <entry>
+        <chapter>1</chapter>
+        <term>Emergency</term>
+        <definition>When there is a serious problem and you need help right away.</definition>
+        <drawable>@drawable/emergency</drawable>
+    </entry>
+    <entry>
+        <chapter>1</chapter>
+        <term>Health Insurance</term>
+        <definition>A program where you pay each month and then the program pays for your health care.</definition>
+        <drawable>@drawable/healthinsurance</drawable>
+    </entry>
+    <entry>
+        <chapter>1</chapter>
+        <term>Medical Interpreter</term>
+        <definition>A person who is trained to translate for doctors and patients.</definition>
+        <drawable>@drawable/medicalinterpreter</drawable>
+    </entry>
+    <entry>
+        <chapter>1</chapter>
+        <term>Primary Care Center</term>
+        <definition>A place you go for basic health care needs. It could be a health center, clinic or doctor’s office.</definition>
+        <drawable>@drawable/primarycare</drawable>
+    </entry>
+    <entry>
+        <chapter>1</chapter>
+        <term>Urgent Care Center</term>
+        <definition>A category of walk-in clinic. Primarily treats injuries or illnesses requiring immediate care, but not serious enough to require an ER visit.</definition>
+        <drawable>@drawable/urgentcare</drawable>
+    </entry>
+    <entry>
+        <chapter>1</chapter>
+        <term>Health Clinic</term>
+        <definition>A health care center staffed by a group of health practitioners and nurses and provides typical health services</definition>
+        <drawable>@drawable/healthclinic</drawable>
+    </entry>
+    <entry>
+        <chapter>1</chapter>
+        <term>Health Department</term>
+        <definition>A division of a local or larger government responsible for the oversight and care of matters relating to public health.</definition>
+        <drawable>@drawable/healthdepartment</drawable>
+    </entry>
+
+    <entry>
+        <chapter>2</chapter>
+        <term>Allergy</term>
+        <definition>Reaction to foods or other things, may cause rash, hives, or other problems.</definition>
+        <drawable>@drawable/allergies</drawable>
+    </entry>
+    <entry>
+        <chapter>2</chapter>
+        <term>Fever</term>
+        <definition>When your body temperature is too high.</definition>
+        <drawable>@drawable/fever</drawable>
+    </entry>
+    <entry>
+        <chapter>2</chapter>
+        <term>Headache</term>
+        <definition>Pain or ache in your head.</definition>
+        <drawable>@drawable/headache</drawable>
+    </entry>
+    <entry>
+        <chapter>2</chapter>
+        <term>Health History</term>
+        <definition>The health problems you had in the past.</definition>
+        <drawable>@drawable/healthhistory</drawable>
+    </entry>
+    <entry>
+        <chapter>2</chapter>
+        <term>Medicine</term>
+        <definition>Used when you are sick or have aches and pain to help make you feel well.</definition>
+        <drawable>@drawable/medicine</drawable>
+    </entry>
+    <entry>
+        <chapter>2</chapter>
+        <term>Sore Throat</term>
+        <definition>When your throat hurts, it is hard to swallow.</definition>
+        <drawable>@drawable/sorethroat</drawable>
+    </entry>
+    <entry>
+        <chapter>2</chapter>
+        <term>Symptoms</term>
+        <definition>Something that happens in the body that shows you have an injury or illness.</definition>
+        <drawable>@drawable/adversereaction</drawable>
+    </entry>
+    <entry>
+        <chapter>2</chapter>
+        <term>General Practitioner (M.D.) </term>
+        <definition>A medical doctor who is trained to provide primary health care to patients of either sex and any age.</definition>
+        <drawable>@drawable/generalpracticioner</drawable>
+    </entry>
+    <entry>
+        <chapter>2</chapter>
+        <term>Nurse Practitioner (N.P.)</term>
+        <definition>They are a registered nurse (RN) with advanced training in diagnosing and treating illness. Nurse Practitioners prescribe medications, treat illness, and administer physical exams. NPs differ from physicians in that they focus on prevention, wellness, and education.</definition>
+        <drawable>@drawable/nursepracticioner</drawable>
+    </entry>
+    <entry>
+        <chapter>2</chapter>
+        <term>Physician’s Assistant (P.A.) </term>
+        <definition>Someone qualified to assist a physician and carry out routine clinical procedures.</definition>
+        <drawable>@drawable/physiciansassistant</drawable>
+    </entry>
+    <entry>
+        <chapter>2</chapter>
+        <term>Registered Nurse (R.N.)</term>
+        <definition>A medical professional, licensed to provide nursing care, including distributing medication.</definition>
+        <drawable>@drawable/residentnurse</drawable>
+    </entry>
+    <entry>
+        <chapter>2</chapter>
+        <term>Certified Nurse Assistant (C.N.A.) </term>
+        <definition>Is a person who assists patients with health care needs and cares for a patient who is ill or recovering from a surgery or disease</definition>
+        <drawable>@drawable/certifiednursingassistant</drawable>
+    </entry>
+    <entry>
+        <chapter>2</chapter>
+        <term>Dermatologist</term>
+        <definition>Dermatology is the science that is concerned with the diagnosis and treatment of diseases of the skin, hair and nails.</definition>
+        <drawable>@drawable/dermatologist</drawable>
+    </entry>
+    <entry>
+        <chapter>2</chapter>
+        <term>Gynecologist/Obstetrician</term>
+        <definition>Treats women during pregnancy, childbirth and diseases of the female reproductive system and genital tract.</definition>
+        <drawable>@drawable/gynecologist</drawable>
+    </entry>
+    <entry>
+        <chapter>2</chapter>
+        <term>Cardiologist</term>
+        <definition>Concerned with the treatment of heart disease and similar problems.</definition>
+        <drawable>@drawable/cardiologist</drawable>
+    </entry>
+    <entry>
+        <chapter>2</chapter>
+        <term>Pediatric Doctor</term>
+        <definition>Treats infants, toddlers, children and teenagers.</definition>
+        <drawable>@drawable/pediatric</drawable>
+    </entry>
+    <entry>
+        <chapter>2</chapter>
+        <term>Urologist</term>
+        <definition>Diagnoses and treats male and female urinary tract and the male reproductive system.</definition>
+        <drawable>@drawable/urologist</drawable>
+    </entry>
+    <entry>
+        <chapter>2</chapter>
+        <term>Allergist/Immunologist</term>
+        <definition>Conducts the diagnosis and treatment of allergic conditions.</definition>
+        <drawable>@drawable/allergist</drawable>
+    </entry>
+    <entry>
+        <chapter>2</chapter>
+        <term>Endocrinologist</term>
+        <definition>Diagnoses diseases related to the glands including diabetes, osteoporosis, cancers of the endocrine glands, and others.</definition>
+        <drawable>@drawable/endocrinologist</drawable>
+    </entry>
+    <entry>
+        <chapter>2</chapter>
+        <term>Chiropractor</term>
+        <definition>Diagnoses and treats misalignments of joints to help your nerves, muscles and organs.</definition>
+        <drawable>@drawable/chiropractor</drawable>
+    </entry>
+    <entry>
+        <chapter>2</chapter>
+        <term>Counselor</term>
+        <definition>A person trained to give guidance on personal, social, or psychological problems.</definition>
+        <drawable>@drawable/counselor</drawable>
+    </entry>
+    <entry>
+        <chapter>2</chapter>
+        <term>Psychiatrist</term>
+        <definition>Treats people with mental and emotional disorders.</definition>
+        <drawable>@drawable/psychiatrist</drawable>
+    </entry>
+
+    <entry>
+        <chapter>3</chapter>
+        <term>Generic</term>
+        <definition>Not a name brand, usually less expensive than the name brand and works as well as name brand.</definition>
+        <drawable>@drawable/generic</drawable>
+    </entry>
+    <entry>
+        <chapter>3</chapter>
+        <term>Label</term>
+        <definition>A sticker on the medicine bottle or box that describes how to take it.</definition>
+        <drawable>@drawable/label</drawable>
+    </entry>
+    <entry>
+        <chapter>3</chapter>
+        <term>Over-the-counter (OTC)</term>
+        <definition>Medicine anyone can buy at a store, you do not need a prescription.</definition>
+        <drawable>@drawable/overthecounter</drawable>
+    </entry>
+    <entry>
+        <chapter>3</chapter>
+        <term>Pharmacy</term>
+        <definition>Where you go to buy medicine.</definition>
+        <drawable>@drawable/pharmacy</drawable>
+    </entry>
+    <entry>
+        <chapter>3</chapter>
+        <term>Pharmacist</term>
+        <definition>A person who works in the pharmacy, the person who fills prescriptions.</definition>
+        <drawable>@drawable/pharmacist</drawable>
+    </entry>
+    <entry>
+        <chapter>3</chapter>
+        <term>Prescription (Rx)</term>
+        <definition>You need one of these from a doctor to buy certain medicines.</definition>
+        <drawable>@drawable/prescription</drawable>
+    </entry>
+    <entry>
+        <chapter>3</chapter>
+        <term>Teaspoon</term>
+        <definition>Measurement of how much liquid medicine is needed.
+            Common abbreviation: tsp
+            Equals five milliliters</definition>
+        <drawable>@drawable/teaspoon</drawable>
+    </entry>
+    <entry>
+        <chapter>3</chapter>
+        <term>Milliliter</term>
+        <definition>Measurement of how much liquid medicine is needed.
+            Common abbreviation: mL</definition>
+        <drawable>@drawable/milliliter</drawable>
+    </entry>
+    <entry>
+        <chapter>3</chapter>
+        <term>Tablespoon</term>
+        <definition>Equals 3 teaspoons or 15 milliliters.
+            Common abbreviation: Tbsp</definition>
+        <drawable>@drawable/tablespoon</drawable>
+    </entry>
+    <entry>
+        <chapter>3</chapter>
+        <term>Vaccine</term>
+        <definition>Provides immunity against one or several diseases.</definition>
+        <drawable>@drawable/vaccine</drawable>
+    </entry>
+    <entry>
+        <chapter>3</chapter>
+        <term>Immunization</term>
+        <definition>The process of becoming immune or resistant to an infectious disease, typically by getting vaccines. It is good to stay up to date on these and check with your doctor on what you need.</definition>
+        <drawable>@drawable/immunization</drawable>
+    </entry>
+    <entry>
+        <chapter>3</chapter>
+        <term>Side Effect</term>
+        <definition>An unwanted result or symptom you get from taking some medicines.</definition>
+        <drawable>@drawable/psychiatrist</drawable>
+    </entry>
+    <entry>
+        <chapter>3</chapter>
+        <term>Warning Label</term>
+        <definition>A label that describes dangers and what NOT to do when taking medicine.</definition>
+        <drawable>@drawable/warninglabel</drawable>
+    </entry>
+    <entry>
+        <chapter>3</chapter>
+        <term>Adverse Reaction</term>
+        <definition>A serious unexpected or unwanted effect caused by your medication that is not mentioned by the label or your doctor.</definition>
+        <drawable>@drawable/adversereaction</drawable>
+    </entry>
+
+    <entry>
+        <chapter>4</chapter>
+        <term>Fiber</term>
+        <definition>Foods that help you feel full and helps your stool come out.</definition>
+        <drawable>@drawable/psychiatrist</drawable>
+    </entry>
+    <entry>
+        <chapter>4</chapter>
+        <term>Nutrition</term>
+        <definition>How the body uses food to stay healthy.</definition>
+        <drawable>@drawable/nutrition</drawable>
+    </entry>
+    <entry>
+        <chapter>4</chapter>
+        <term>Obesity</term>
+        <definition>Being very overweight, a weight that is dangerous for your health.</definition>
+        <drawable>@drawable/obesity</drawable>
+    </entry>
+    <entry>
+        <chapter>4</chapter>
+        <term>Recipe</term>
+        <definition>List of what goes into a meal and how to prepare it.</definition>
+        <drawable>@drawable/recipe</drawable>
+    </entry>
+    <entry>
+        <chapter>4</chapter>
+        <term>Sodium</term>
+        <definition>Another word for salt.</definition>
+        <drawable>@drawable/sodium</drawable>
+    </entry>
+    <entry>
+        <chapter>4</chapter>
+        <term>Vitamins</term>
+        <definition>A kind of nutrient in foods that help fight sickness and keep the body strong and healthy.</definition>
+        <drawable>@drawable/vitamins</drawable>
+    </entry>
+    <!-- 58 -->
+</assets>

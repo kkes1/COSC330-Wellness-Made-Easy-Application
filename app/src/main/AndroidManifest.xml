@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.projectone">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".MainMenu"></activity>
+        <activity android:name=".PictureStoryScreen"></activity>
+        <activity android:name=".MariaStory"></activity>
+        <activity android:name=".MariaQuestions"></activity>
+        <activity android:name=".MariaAnswers"></activity>
+        <activity android:name=".JohnStory"></activity>
+        <activity android:name=".JohnQuestions"></activity>
+        <activity android:name=".JohnAnswers"></activity>
+        <activity android:name=".AliciaStory"></activity>
+        <activity android:name=".AliciaQuestions"></activity>
+        <activity android:name=".AliciaAnswers"></activity>
+        <activity android:name=".LarisaStory"></activity>
+        <activity android:name=".LarisaQuestions"></activity>
+        <activity android:name=".LarisaAnswers"></activity>
+        <activity android:name=".TakePartsScreen"></activity>
+        <activity android:name=".TakePartsBody"></activity>
+        <activity android:name=".TakePartsHead"></activity>
+        <activity android:name=".TakePartsResults"></activity>
+        <activity android:name=".TakePartsVitamins"></activity>
+        <activity android:name=".Task1Activity"/>
+        <activity android:name=".Task2Activity"/>
+        <activity android:name=".WordSearchActivity"/>
+        <activity android:name=".CrosswordActivity"/>
+        <activity android:name=".Task5Activity" android:screenOrientation="landscape"
+            tools:ignore="LockedOrientationActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

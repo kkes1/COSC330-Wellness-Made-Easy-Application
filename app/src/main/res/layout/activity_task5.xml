@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/ch1Read"
+                style="style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_span="1"
+                android:onClick="doActivity"
+                android:text="@string/ch1Reading"
+                android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+
+            <Button
+                android:id="@+id/ch1Speak"
+                style="style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="doActivity"
+                android:text="@string/ch1Speaking"
+                android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/ch2Read1"
+                style="style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="doActivity"
+                android:text="@string/ch2Reading"
+                android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+
+            <Button
+                android:id="@+id/ch2Speak1"
+                style="style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="doActivity"
+                android:text="@string/ch2Speaking"
+                android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/ch2Read2"
+                style="style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="doActivity"
+                android:text="@string/ch2Reading2"
+                android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+
+            <Button
+                android:id="@+id/ch2Speak2"
+                style="style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="doActivity"
+                android:text="@string/ch2BodyParts"
+                android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/ch4Read1"
+                style="style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="doActivity"
+                android:text="@string/ch4Reading"
+                android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+
+            <Button
+                android:id="@+id/ch3Speak"
+                style="style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="doActivity"
+                android:text="@string/ch3Speaking"
+                android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/ch4Read2"
+                style="style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="doActivity"
+                android:text="@string/ch4Reading2"
+                android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+
+            <Button
+                android:id="@+id/ch4Speak"
+                style="style"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="doActivity"
+                android:text="@string/ch4Speaking"
+                android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/ch4Read3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="doActivity"
+                android:text="@string/ch4Reading3"
+                android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+        </TableRow>
+
+    </TableLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

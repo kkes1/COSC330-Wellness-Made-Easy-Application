@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets>
+    <entry>
+        <word>Diabetes</word>
+        <clue>A disease that causes high level of glucose/sugar in your body, leading to serious health problems.</clue>
+    </entry>
+
+    <entry>
+        <word>Calories</word>
+        <clue>Too much sugar is bad for you, as it has a lot of this, which causes weight gain, diabetes, and does not give your body energy.</clue>
+    </entry>
+
+    <entry>
+        <word>Sodium</word>
+        <clue>Another name for salt</clue>
+    </entry>
+
+    <entry>
+        <word>Vitamins</word>
+        <clue>Found in foods that help your body stay healthy. </clue>
+    </entry>
+
+    <entry>
+        <word>Fruit</word>
+        <clue>Apples, bananas and oranges are called this.</clue>
+    </entry>
+
+    <entry>
+        <word>Obese</word>
+        <clue>This word means a person is very overweight and will not be healthy</clue>
+    </entry>
+
+    <entry>
+        <word>Exercise</word>
+        <clue>You should do this regularly to help your heart stay strong.</clue>
+    </entry>
+
+    <entry>
+        <word>Carbohydrates</word>
+        <clue> This is a type of food that should be limited if you have diabetes. When eaten it is broken down into sugar. Bread has a large amount of these.</clue>
+    </entry>
+</assets>

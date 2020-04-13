@@ -1,0 +1,288 @@
+<resources>
+    <string name="app_name">ProjectOne</string>
+
+    <!-- LOG ON SCREEN TEXT -->
+    <string name="email">Enter E-mail:</string>
+    <string name="password">Enter Password:</string>
+    <string name="login">Log In</string>
+    <string name="login_error">Invalid E-Mail/Password. Please try again.</string>
+
+    <!-- MAIN MENU BUTTONS TEXT -->
+    <string name="glossary">Glossary/Matching Game</string>
+    <string name="crossword">Crossword Puzzle</string>
+    <string name="parts">Take Parts</string>
+    <string name="picture">Picture Story</string>
+    <string name="readspeak">Reading/Speaking</string>
+
+    <!-- PICTURE STORY MENU BUTTONS TEXT -->
+    <string name="select_story">\t\t\t\t\t\t\t\t\tSelect a Picture Story to load.\nSeleccione una historia de imagen para cargar.</string>
+    <string name="maria">Chapter One:\nMaria\'s Story</string>
+    <string name="john">Chapter Two:\nJohn\'s Story</string>
+    <string name="alicia">Chapter Three:\nAlicia\'s Story</string>
+    <string name="larisa">Chapter Four:\nLarisa\'s Story</string>
+    <string name="help">Help / Ayuda</string>
+
+    <!-- MARIA STORY TEXT -->
+    <string name="mariaone">This is Maria.\nElla es Maria.</string>
+    <string name="mariatwo">Maria was sick last year.\nMaria estuvo enferma el año pasado.</string>
+    <string name="mariathree">She did not go to the doctor.\nElla no fue al médico.</string>
+    <string name="mariafour">One night she could not breathe.\nUna noche no pudo respirar.</string>
+    <string name="mariafive">Her husband took her to the <b>emergency</b> room.\nSu esposo la llevó a la sala de <b>emergencias</b>.</string>
+    <string name="mariasix">She stayed in the hospital for three days.\nElla permaneció en el hospital por tres días.\n(PART ONE END)</string>
+    <string name="mariaseven">Maria is sick again. She has a bad cough.\nMaria está enferma de nuevo. Ella tiene una tos fuerte.</string>
+    <string name="mariaeight">She does not want the cough to get worse. She does not want to go to the emergency room.\nElla no quiere que la tos empeore. Ella no quiere ir a la sala de emergencias.</string>
+    <string name="marianine">She calls the health center to make an <b>appointment</b>.\nElla llama al centro de salud para hacer una <b>cita</b>.</string>
+    <string name="mariaten">She also asks for an interpreter.\nElla también pide un intérprete.\n(PART TWO END)</string>
+    <string name="mariaeleven">At the health center they ask Maria, "What is your name?"\nEn el centro de salud le preguntan a Maria: "¿Cómo te llamas?"</string>
+    <string name="mariatwelve">They ask, "Do you have <b>health insurance</b>?"\nPreguntan: "¿Tiene <b>seguro de salud</b>?"</string>
+    <string name="mariathirteen">Maria gives them her insurance card.\nMaria les da su tarjeta de seguro.\n(PART 3 END)</string>
+    <string name="mariafourteen">They give her a form to fill out. The form is in English. Maria asks for a form in Spanish.\nLe dan un formulario para completar. El formulario está en inglés. Maria pide un formulario en español.</string>
+    <string name="mariafifteen">Maria asks for an <b>interpreter</b>.\nMaria pide un <b>intérprete</b>.\n(STORY END)</string>
+
+    <!-- MARIA QUESTIONS TEXT -->
+    <string name="mq1">1. Why did Maria go to the hospital? ¿Por qué fue Maria al hospital?</string>
+    <string name="mq2">2. Why does she make an appointment at the health center?\n¿Por qué hace una cita en el centro de salud?</string>
+    <string name="mq3">3. What do they ask Maria when she arrives at the health center?\n¿Qué le preguntan a María cuando llega al centro de salud?</string>
+    <string name="mq4">4. Why does she ask for an interpreter? ¿Por qué pide una intérprete?</string>
+
+    <!-- JOHN STORY TEXT -->
+    <string name="johnone">John is 50 years old.\nJohn tiene 50 años.</string>
+    <string name="johntwo">He is a healthy man.\nEl es un hombre sano.</string>
+    <string name="johnthree">Once a year he goes to his primary care physician for a <b>checkup</b>.\nUna vez al año acude a su médico de atención primaria para un <b>chequeo</b>.\n(PART 1 END)</string>
+    <string name="johnfour">He calls his primary care center to make an <b>appointment</b>.\nLlama a su centro de atención primaria para hacer una <b>cita</b>.</string>
+    <string name="johnfive">He says, "I need to make an appointment for a checkup."\nÉl dice: "Necesito hacer una cita para un chequeo".</string>
+    <string name="johnsix">The woman on the phone says, "Please come in on Tuesday at 4:30 pm."\nLa mujer en el teléfono dice: "Por favor, vengan el martes a las 4:30 pm".\n(PART 2 END)</string>
+    <string name="johnseven">When John arrives at the primary care center, the woman at the front desk gives him a <b>health history form</b>.\nCuando John llega al centro de atención primaria, la mujer de la recepción le entrega un <b>formulario de historial de salud</b>.</string>
+    <string name="johneight">He fills out the health history form while he waits for the physician\'s assistant.\nRellena el formulario de historial de salud mientras espera al asistente del médico.\n(PART 3 END)</string>
+    <string name="johnnine">The form asks, "Do you have any <b>allergies</b>? Do you take any medicines?"\nEl formulario pregunta: "¿Tiene alguna <b>alergia</b>? ¿Toma algún medicamento?"</string>
+    <string name="johnten">He thinks of the questions to ask the physician\'s assistant.\nPiensa en las preguntas para hacerle al asistente del médico.\n(STORY END)</string>
+
+    <!-- JOHN QUESTIONS TEXT -->
+    <string name="jq1">1. How does John stay healthy?\n¿Cómo se mantiene saludable John?</string>
+    <string name="jq2">2. Why does he call his primary care physician?\n¿Por qué llama a su médico de atención primaria?</string>
+    <string name="jq3">3. What do they give John when he arrives at the primary care center?\n¿Qué le dan a John cuando llega al centro de atención primaria?</string>
+    <string name="jq4">4. What questions do you think John will ask his primary care physician?\n¿Qué preguntas cree que John le hará a su médico de atención primaria?</string>
+
+    <!-- ALICIA STORY TEXT -->
+    <string name="aliciaone">Alicia went to the doctor.\nAlicia fue al médico.</string>
+    <string name="aliciatwo">The doctor gave her a prescription.\nEl doctor le dio una receta.</string>
+    <string name="aliciathree">Alicia took the prescription to the pharmacy.\nAlicia llevó la receta a la farmacia.</string>
+    <string name="aliciafour">She gave the prescription to the pharmacist.\nElla le dio la receta al farmacéutico.</string>
+    <string name="aliciafive">The pharmacist filled the prescription and gave her the medicine.\nEl farmacéutico llenó la receta y le dio el medicamento.</string>
+    <string name="aliciasix">Alicia asked the pharmacist, "How do I take this medicine?"\nAlicia le preguntó al farmacéutico: "¿Cómo tomo este medicamento?"</string>
+    <string name="aliciaseven">The pharmacist said, "Take two, twice a day."\nEl farmacéutico dijo: "Tome dos, dos veces al día".</string>
+
+    <!-- ALICIA QUIZ TEXT -->
+    <string name="aq1">1. What is the name of the medicine?\n¿Cuál es el nombre de la medicina?</string>
+    <string name="aq2">2. How much medicine will Alicia take each day?\n¿Cuánta medicina tomará Alicia cada día?</string>
+    <string name="aq3">3. How often will she take it each day?\n¿Con qué frecuencia lo tomará cada día?</string>
+    <string name="aq4">4. How many pills are in the bottle?\n¿Cuántas pastillas hay en la botella?</string>
+    <string name="aq5">5. What does the warning label say?\n¿Qué dice la etiqueta de advertencia?</string>
+
+    <!-- LARISA STORY TEXT -->
+    <string name="larisaone">Larisa\'s family eats too much meat and not enough fruits and vegetables. Larisa wants to make her family a healthy meal.\nLa familia de Larisa come demasiada carne y no tienes suficientes frutas y verduras. Larisa quiere hacer de su familia una comida saludable.</string>
+    <string name="larisatwo">Help Larisa make a healthy meal for her family. Choose food from the five food groups.\nAyuda a Larisa a preparar una comida saludable para su familia. Elija alimentos de los cinco grupos de alimentos.</string>
+
+    <!-- LARISA QUIZ TEXT -->
+    <string name="choose"><b>Choose One / Elige Uno</b></string>
+    <string name="fruit"><b>Fruits/Frutas:</b></string>
+    <string name="apples">Apples/Manzanas</string>
+    <string name="bananas">Bananas/Plátanos</string>
+    <string name="grapes">Grapes/Uvas</string>
+    <string name="oranges">Oranges/Naranjas</string>
+    <string name="strawberries">Strawberries/Fresas</string>
+
+    <string name="vegetable"><b>Vegetables/Vegetales:</b></string>
+    <string name="broccoli">Broccoli/Brócoli</string>
+    <string name="carrots">Carrots/Zanahorias</string>
+    <string name="peas">Peas/Chícharos</string>
+    <string name="spinach">Spinach/Espinacas</string>
+    <string name="string_beans">String Beans/Judías Verdes</string>
+
+    <string name="grain"><b>Grains/Granos:</b></string>
+    <string name="brown_rice">Brown Rice/Arroz Integral</string>
+    <string name="corn_bread">Corn Bread/Pan de Maíz</string>
+    <string name="pasta">Pasta</string>
+    <string name="tortillas">Tortillas</string>
+    <string name="wheat_bread">Wheat Bread/Pan de Trigo</string>
+
+    <string name="protein"><b>Protein/Proteína:</b></string>
+    <string name="beef">Beef/Carne de Vaca</string>
+    <string name="black_beans">Black Beans/Frijoles Negros</string>
+    <string name="chicken">Chicken/Pollo</string>
+    <string name="nuts">Nuts/Nueces</string>
+    <string name="fish">Fish/Pez</string>
+
+    <string name="dairy"><b>Dairy/Lechería:</b></string>
+    <string name="cheese">Cheese/Queso</string>
+    <string name="milk">Milk/Leche</string>
+    <string name="yogurt">Yogurt/Yogur</string>
+
+    <string name="another_meal">Make Another Meal\n/ Hacer Otra Comida</string>
+    <string name="meal">Your Meal / Tu Comida</string>
+    <string name="make_another">Would you like to make another?\n¿Te gustaría hacer otro?</string>
+
+    <!-- TAKE PARTS MENU TEXT -->
+    <string name="select_takepart">Select a Take Parts activity to load.\nSeleccione una actividad Tomar partes para cargar.</string>
+    <string name="take_part1">Chapter Two:\nBody Parts</string>
+    <string name="take_part2">Chapter Three:\nMedicine Label</string>
+    <string name="take_part3">Chapter Three:\nLabel Exercise</string>
+    <string name="take_part4">Chapter Four:\nVitamins</string>
+    <string name="drag_correct">Drag the correct word on to the correct spot.</string>
+
+    <!-- TAKE PARTS BODY QUIZ TEXT -->
+    <string name="arm">Arm</string>
+    <string name="hand">Hand</string>
+    <string name="feet">Feet</string>
+    <string name="stomach">Stomach/Abdomen</string>
+    <string name="chest">Chest</string>
+    <string name="shoulder">Shoulder</string>
+    <string name="head">Head</string>
+
+    <!-- TAKE PARTS HEAD QUIZ TEXT -->
+    <string name="eyes">Eyes</string>
+    <string name="ear">Ear</string>
+    <string name="nose">Nose</string>
+    <string name="lips">Lips</string>
+    <string name="neck">Neck</string>
+
+    <!-- TAKE APRTS VITAMINS QUIZ TEXT -->
+    <string name="vitaminb2">Vitamin B2</string>
+    <string name="vitaminb3">Vitamin B3</string>
+    <string name="vitaminc">Vitamin C</string>
+    <string name="vitamind">Vitamin D</string>
+    <string name="vitamine">Vitamin E</string>
+    <string name="vitamink">Vitamin K</string>
+
+
+    <!-- WIDELY USED TEXT -->
+    <string name="back_button_text">Back / Regreso</string>
+    <string name="forward_button_text">Next / Adelante</string>
+    <string name="incorrect">Incorrect.\nIncorrecto.</string>
+    <string name="correct">Correct!\n¡Correcto!</string>
+    <string name="quiz">Quiz Time!\n¡Examen!</string>
+    <string name="load_quiz">Quiz / Examen</string>
+    <string name="submit">Submit / Entregar</string>
+    <string name="results">Results / Resultandos</string>
+    <string name="answer">Answer / Repuesta:</string>
+    <string name="story_again">Read Story Again \n/ Lea la historia \notra vez</string>
+    <string name="retry">Retry Quiz \n/ Reintentar \nCuestionario</string>
+    <string name="empty"></string>
+    <string name="wordbank">Word Bank:</string>
+    <string name="reset">Reset / Reinciar</string>
+    <string name="takepartsdone">Congratulations! You have completed the exercise!</string>
+
+    <!-- task1 strings -->
+    <string name="t1_random_word_button">Random Word</string>
+    <string name="t1_definition_button">Show Definition</string>
+    <string name="t1_nextWord">Next Word</string>
+    <string name="t1_previousWord">Previous Word</string>
+    <string name="play_word">Play Word</string>
+    <string name="play_definition">Play Definition</string>
+    <string name="term_placeholder">%1$s</string>
+    <string name="definition_placeholder">%1$s</string>
+    <string name="chapter_placeholder">Chapter %1$d</string>
+
+    <!-- task2 strings -->
+    <string name="word_search_button">Health Word Search</string>
+    <string name="crossword_button">Diet Crossword</string>
+    <string name="word_bank">Word Bank</string>
+
+    <!-- task5 strings -->
+    <string name = "next">Next Page</string>
+    <string name="prev">Previous Page</string>
+    <string name="back">Back</string>
+
+    <string name="ch1Reading">Reading: Where Do I Go For Health Care?</string>
+    <string name="ch1ReadingLine1">When you are well, see your doctor for a checkup. Your doctor will look for problems you do not see or feel. Finding a health problem early may save your life.</string>
+    <string name="ch1ReadingLine2">When you are sick, go to your primary care center. Your primary care center is the place to go for all your basic health care needs. Call your primary care center to make an appointment.</string>
+    <string name="ch1ReadingLine3">When you have an emergency, go to the hospital emergency room or call 911. An Emergency is when you have a serious medical problem that needs to be addressed right away.</string>
+
+    <string name="ch1Speaking">Speaking: Setting Up an Appointment</string>
+    <string name="ch1SpeakingLine1">Hello, health center, how may I help you?</string>
+    <string name="ch1SpeakingLine2">Hello, this is Fatima Tuma. I want to make an appointment.</string>
+    <string name="ch1SpeakingLine3">How do you spell your name?</string>
+    <string name="ch1SpeakingLine4">T U M A</string>
+    <string name="ch1SpeakingLine5">What is the problem?</string>
+    <string name="ch1SpeakingLine6">I have a headache and sore throat.</string>
+    <string name="ch1SpeakingLine7">Do you have a fever?</string>
+    <string name="ch1SpeakingLine8">No, I don\'t.</string>
+    <string name="ch1SpeakingLine9">Okay, come in tomorrow at 10AM</string>
+    <string name="ch1SpeakingLine10">Thank you</string>
+
+    <string name="ch2Reading">Reading: What will the doctor ask me?</string>
+    <string name="ch2ReadingLine1">What are your symptoms? Before you go to the doctor, practice describing your symptoms in English. Practice with a friend or a family member.</string>
+    <string name="ch2ReadingLine2">What medicine do you take? Before you go to the doctor, write down the names of medicines you take and how much you take each day. Give this list to your doctor. Or you can bring your medicines with you and show them to the doctor.</string>
+    <string name="ch2ReadingLine3">What is your health history? Your health history is the health problems you have now or had in the past. Your doctor will always ask you to fill out a health history form.</string>
+
+    <string name="ch2Reading2">Reading: What will I ask the doctor?</string>
+    <string name="ch2Reading2Line1">Be sure you understand the answers to these questions before you leave your appointment.</string>
+    <string name="ch2Reading2Line2">What is my main problem?</string>
+    <string name="ch2Reading2Line3">What do I need to do/how do I take my medication?</string>
+    <string name="ch2Reading2Line4">Why is it important for me to do this?</string>
+    <string name="ch2Reading2Line5">What if I am getting worse?</string>
+    <string name="ch2Reading2Line6">How do I get my medicine? Where do I go?</string>
+    <string name="ch2Reading2Line7">What are the side effects of my medicine?</string>
+    <string name="ch2Reading2Line8">It is your doctors job to clearly explain the answers to these questions.</string>
+    <string name="ch2Reading2Line9">It is your job to be sure you understand the answers before you leave the doctors office.</string>
+
+    <string name="ch2Speaking">Speaking: Getting Medicine</string>
+    <string name="ch2SpeakingLine1">Hello, my name is Dr.Watson. How may I help you?</string>
+    <string name="ch2SpeakingLine2">I have pain in my back.</string>
+    <string name="ch2SpeakingLine3">Do you have other symptoms?</string>
+    <string name="ch2SpeakingLine4">Yes, it hurts when I walk</string>
+    <string name="ch2SpeakingLine5">What is causing my back pain?</string>
+    <string name="ch2SpeakingLine6">I can give you some medicine to help. Take it two times a day.</string>
+    <string name="ch2SpeakingLine7">How long should I take the medicine?</string>
+    <string name="ch2SpeakingLine8">Take all the medicine. It should last about one week.</string>
+    <string name="ch2SpeakingLine9">Thank you, Doctor.</string>
+
+    <string name="ch2BodyParts">Speaking: Body Parts</string>
+    <string name="ch2BodyParts1">Back</string>
+    <string name="ch2BodyParts2">Chest</string>
+    <string name="ch2BodyParts3">Ears</string>
+    <string name="ch2BodyParts4">Eyes</string>
+    <string name="ch2BodyParts5">Feet</string>
+    <string name="ch2BodyParts6">Hands</string>
+    <string name="ch2BodyParts7">Head</string>
+    <string name="ch2BodyParts8">Neck</string>
+    <string name="ch2BodyParts9">Nose</string>
+    <string name="ch2BodyParts10">Shoulders</string>
+    <string name="ch2BodyParts11">Stomach</string>
+
+    <string name="ch3Speaking">Speaking: Over the Counter Medication</string>
+    <string name="ch3SpeakingLine1">Hello, how can I help you?</string>
+    <string name="ch3SpeakingLine2">I need to find over the counter medication for allergies.</string>
+    <string name="ch3SpeakingLine3">What are your symptoms?</string>
+    <string name="ch3SpeakingLine4">I have a headache and I sneeze often.</string>
+    <string name="ch3SpeakingLine5">Here is a medicine that works for many people. Try this medicine.</string>
+    <string name="ch3SpeakingLine6">Will this medicine cause side effects?</string>
+    <string name="ch3SpeakingLine7">This label says the medicine may make you feel sleepy.</string>
+    <string name="ch3SpeakingLine8">Is there a medicine that will not make me sleepy?</string>
+    <string name="ch3SpeakingLine9">Yes, try this one.</string>
+    <string name="ch3SpeakingLine10">Thank you.</string>
+
+    <string name="ch4Reading">Reading: What is healthy eating?</string>
+    <string name="ch4ReadingLine1">Healthy eating means the body is getting the food it needs to stay healthy. Healthy eating can prevent obesity and other health problems.</string>
+    <string name="ch4ReadingLine2">Other health problems that can be avoided or lessened by healthy eating: Diabetes, High Cholesterol, Osteoporosis, Cancer, Heart Disease and Stroke, High Blood Pressure, Depression, and Eating Disorders.</string>
+
+    <string name="ch4Reading2">Reading: More Variety in Your Diet</string>
+    <string name="ch4Reading2Line1">To stay healthy you need to eat foods from the 5 food groups. These 5 food groups are Fruits, Dairy, Protein, Vegetables, and Grains.</string>
+
+    <string name="ch4Reading3">Reading: Eat More Fruits and Vegetables</string>
+    <string name="ch4Reading3Line1">One of the best things you can do for your health is eat more fruits and vegetables. Fruits and vegetables give you the fiber and vitamins your body needs to stay healthy.</string>
+    <string name="ch4Reading3Line2">People should work to eat 2 servings of fruit and 5 servings of vegetables each day.</string>
+    <string name="ch4Reading3Line3">Examples of a serving are: 1 small apple, 1 large orange, 1 cup of leafy greens(lettuce, spinach, kale), 1 small bell pepper, 1/2 a cup of berries(blueberries, strawberries, grapes), 2 medium carrots.</string>
+
+    <string name="ch4Speaking">Speaking: Fruits and Vegetables</string>
+    <string name="ch4SpeakingLine1">What fruits do you like to eat?</string>
+    <string name="ch4SpeakingLine2">I like to eat oranges and apples.</string>
+    <string name="ch4SpeakingLine3">What vegetables do you like to eat?</string>
+    <string name="ch4SpeakingLine4">I like to eat broccoli and carrots.</string>
+    <string name="ch4SpeakingLine5">Do you like to eat spinach?</string>
+    <string name="ch4SpeakingLine6">No, I do not like to eat spinach. Do you?</string>
+    <string name="ch4SpeakingLine7">No, I do not like spinach either.</string>
+    <string name="ch4SpeakingLine8">Do you like to eat strawberries?</string>
+    <string name="ch4SpeakingLine9">Yes, strawberries are my favorite food</string>
+
+</resources>
